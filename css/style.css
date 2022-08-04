@@ -5900,16 +5900,6 @@ a.close.disabled {
     margin: 0px !important;
     padding: 0px !important;
   }
-
-  .img-home{
-    margin: auto;
-    width: 100% !important;
-    height: auto !important;
-    min-width: 320px;
-    height: auto;
-    position: none;
-    object-fit: none;
-  }
 }
 
 @media (prefers-reduced-motion: reduce) {
