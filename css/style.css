@@ -5885,23 +5885,6 @@ a.close.disabled {
   object-fit: cover !important;
 }
 
-@media (max-width: 576px) {
-  .carousel-item {
-    height: auto
-  }
-
-  .carousel-caption{
-    padding-top: 50px;
-    padding-bottom: 50px;
-  }
-
-  .simply-countdown > .simply-section {
-    width: 75px !important;
-    margin: 0px !important;
-    padding: 0px !important;
-  }
-}
-
 @media (prefers-reduced-motion: reduce) {
   .carousel-item {
     transition: none;
